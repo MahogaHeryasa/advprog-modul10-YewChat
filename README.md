@@ -17,3 +17,15 @@ Login Page
 Chat Page
 
 ![Chat](assets/images/chat.png)
+
+### Experiment 3.2: Be Creative!
+
+Login Page
+
+![login](assets/images/login2.png)
+
+Chat Page
+
+![Chat](assets/images/chat2.png)
+
+Explanation: untuk bagian *Be Creative!* saya mengubah tema dan skema warna dari *login page* dan *chat page*. Hal ini saya lakukan dengan merubah file html yang di-*return* pada `chat.rs` dan `login.rs`, serta memanfaatkan atribut *color class* yang disediakan tailwind. 
